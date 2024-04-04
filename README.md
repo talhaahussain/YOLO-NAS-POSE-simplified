@@ -1,6 +1,3 @@
-# gym-tracker-CV
-As part of preparation for final ECM3401 project product.
+# YOLO-NAS-POSE-simplified
 
-Using this as an opportunity to learn more about using Google's MediaPipe with Python for computer vision, specifically human pose estimation, as well as operating using Google Colab and Jupyter Notebooks. Following a tutorial outlined by Nicholas Renotte; channel attached here: https://www.youtube.com/@NicholasRenotte.
-
-Video here: https://youtu.be/06TE_U21FK4
+A simpler (and working) notebook and repo for convinient use of YOLO-NAS-POSE, a human pose estimation model by Deci AI. Aims to run in a less resource intensive manner, by eliminating real-time capture and playback, and instead reading from and writing to permanent image and video files. Part of preparation for final ECM3401 project product.
